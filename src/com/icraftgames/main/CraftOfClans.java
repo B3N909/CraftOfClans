@@ -50,6 +50,6 @@ public class CraftOfClans extends JavaPlugin implements Listener {
 		
 	}
 	
-	
+	//Test
 	
 }
